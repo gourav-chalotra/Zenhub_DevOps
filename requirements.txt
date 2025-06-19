@@ -3,5 +3,3 @@ pandas
 flask
 scikit-learn
 requests
-os
-logging
